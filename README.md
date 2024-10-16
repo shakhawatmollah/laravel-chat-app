@@ -11,7 +11,6 @@ This is a simple chat application built with Laravel and Reverb.
 - Database (SQLite)
 - Reverb
 - Node.js
-- 
 
 ## Features
 
