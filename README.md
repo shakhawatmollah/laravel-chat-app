@@ -104,4 +104,4 @@ The application will run on `http://127.0.0.1:8000`
 ## References
 
 - [Laravel](https://laravel.com)
-- [Laravel Reverb](https://laravel.com/docs/5.9/echo#reverb)
+- [Laravel Reverb](https://reverb.laravel.com)
