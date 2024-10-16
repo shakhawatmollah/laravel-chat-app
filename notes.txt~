@@ -1,0 +1,31 @@
+Optional: >> composer global require laravel/installer
+>> laravel new app-name
+	-> breeze
+	-> livewire
+>> php artisan make:livewire ChatComponent
+>> php artisan install:broadcasting
+>> php artisan make:model Message -m
+>> php artisan make:event MessageSendEvent
+
+php artisan migrate --seed // for database
+
+php artisan serve // for server
+
+npm run dev // for vite
+
+npm run build // for vite
+
+npm run watch // for vite
+
+php artisan make:migration create_messages_table --create=messages
+
+php artisan make:migration create_users_table --create=users
+
+php artisan make:migration create_posts_table --create=posts
+
+php artisan make:migration create_comments_table --create=comments
+
+php artisan make:migration create_tags_table --create=tags
+
+php artisan make:migration create_taggables_table --create=taggables
+

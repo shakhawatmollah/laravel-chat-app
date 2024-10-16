@@ -1,0 +1,25 @@
+Optional: >> composer global require laravel/installer
+>> laravel new app-name
+	-> breeze
+	-> livewire
+>> php artisan make:livewire ChatComponent
+>> php artisan install:broadcasting
+>> php artisan make:model Message -m
+>> php artisan make:event MessageSendEvent
+
+php artisan migrate --seed // for database
+
+php artisan serve // for server
+
+npm run dev // for vite
+
+npm run build // for vite
+
+npm run watch // for vite
+
+php artisan reverb:start // for websocket/broadcasting server
+
+php artisan route:list // for list all routes
+
+
+
